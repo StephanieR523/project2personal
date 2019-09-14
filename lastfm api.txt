@@ -1,0 +1,11 @@
+Application name	Pied Piper Project 1
+API key	083a0df86b91b2025ae5d0067cd34f42
+Shared secret	ad5045a24238eee4b8199447b86a033a
+Registered to	stephanier523ya
+
+
+http://ws.audioscrobbler.com/2.0/?method=artist.search&artist=cher&api_key=083a0df86b91b2025ae5d0067cd34f42&format=json
+
+http://ws.audioscrobbler.com/2.0/?method=track.search&track=b&api_key=083a0df86b91b2025ae5d0067cd34f42&format=json
+
+event - detect if user has input characters
